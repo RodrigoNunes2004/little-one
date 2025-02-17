@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0RiMGoA4nzLt+hcHcgiEbwVfY/PpvJEnUek2nA7T7XMSbz9+YwQLpTDR9XP7lszK8Bt9RoIi4dZxM1j2AGfDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodrigo\\OneDrive\\Desktop\\ecommerceProjectStores\\little-one\\LittleOne.API\\LittleOne.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
